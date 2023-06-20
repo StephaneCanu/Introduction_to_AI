@@ -1,7 +1,7 @@
 # Introduction_to_AI
 Introduction to AI
 
-Stéphan Canu
+Stéphane Canu
 
 https://scanu.pages.insa-rouen.fr/pages_perso/
 
